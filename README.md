@@ -16,7 +16,6 @@ Sistema de monitoreo y optimización de flujo vehicular y peatonal que utiliza i
     - [Decisiones de Diseño](#decisiones-de-diseño)
     - [Resultados y Conclusión](#resultados-y-conclusión)
 - [Stack Tecnológico](#stack-tecnológico)
-- [Reconocimientos](#reconocimientos)
 
 ---
 
